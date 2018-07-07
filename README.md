@@ -1,1 +1,1 @@
-"# take-two-stones" 
+[Take Two Stones](https://open.kattis.com/problems/twostones)
